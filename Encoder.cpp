@@ -1,9 +1,4 @@
-#include<iostream>
-#include<fstream>
-#include<vector>
-#include<string>
-#include<time.h>
-#include<stdlib.h>
+#include <bits/stdc++.h>
 using namespace std;
 #define Char_size 256                                                                                   //Ascii characterset only
 struct Node                                                                                             //Structure of Node of Huffman tree
