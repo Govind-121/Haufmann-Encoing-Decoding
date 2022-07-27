@@ -1,8 +1,4 @@
-#include<iostream>
-#include<fstream>
-#include<vector>
-#include<time.h>
-#include<stdlib.h>
+#include <bits/stdc++.h>
 using namespace std;
 struct Node                                                                                     //Structure of a Node of a Huffman tree for decoding
 {
