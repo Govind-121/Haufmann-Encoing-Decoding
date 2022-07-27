@@ -1,1 +1,1 @@
-# Haufmann-Encoing-Decoding
+# Hufman-Encoing-Decoding
